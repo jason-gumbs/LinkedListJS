@@ -1,5 +1,5 @@
 class ListNode {
-    constructor(data, number) {
+    constructor(data) {
         this.data = data
         this.nextElement = null                
     }
